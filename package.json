@@ -1,0 +1,15 @@
+{
+  "name": "scrabble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrabble.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  }
+}
